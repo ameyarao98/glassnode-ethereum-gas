@@ -1,4 +1,4 @@
-module gitlab.com/AmeyaRao98/glassnode-ethereum-fee
+module github.com/AmeyaRao98/glassnode-ethereum-gas
 
 go 1.16
 
